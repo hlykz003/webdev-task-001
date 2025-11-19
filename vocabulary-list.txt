@@ -1,112 +1,115 @@
-API: A set of functions and tools for building software applications, often interacting with external systems.
+<title>Web Development Vocabulary</title>
+<h1>Web Development Vocabulary</h1>
+<ul>
+    <strong>API:</strong> A set of functions and tools for building software applications, often interacting with external systems.
 
-Async/Await: Syntax for handling asynchronous operations more easily than with callbacks or promises.
+    <strong>Async/Await:</strong> Syntax for handling asynchronous operations more easily than with callbacks or promises.
 
-Attribute: Provides additional information about an HTML element.
+    <strong>Attribute:</strong> Provides additional information about an HTML element.
 
-Block-Level Element: An element that starts on a new line and takes up the full width available.
+    <strong>Block-Level Element:</strong> An element that starts on a new line and takes up the full width available.
 
-Box Model: The model that represents the content, padding, border, and margin of an element.
+    <strong>Box Model:</strong> The model that represents the content, padding, border, and margin of an element.
 
-Browser: A software application used to access and display web pages.
+    <strong>Browser:</strong> A software application used to access and display web pages.
 
-Callback: A function passed as an argument to another function to be executed later.
+    <strong>Callback:</strong> A function passed as an argument to another function to be executed later.
 
-CDN (Content Delivery Network): A network of servers that distribute content closer to users for faster loading times.
+    <strong>CDN (Content Delivery Network):</strong> A network of servers that distribute content closer to users for faster loading times.
 
-Class: A selector in CSS used to apply styles to elements.
+    <strong>Class:</strong> A selector in CSS used to apply styles to elements.
 
-Client-Side: Refers to actions or scripts that run in the user's browser.
+    <strong>Client-Side:</strong> Refers to actions or scripts that run in the user's browser.
 
-CMS (Content Management System): Software that helps users create, manage, and modify content on a website without needing to code.
+    <strong>CMS (Content Management System):</strong> Software that helps users create, manage, and modify content on a website without needing to code.
 
-CSS (Cascading Style Sheets): The language used to style and layout HTML documents.
+    <strong>CSS (Cascading Style Sheets):</strong> The language used to style and layout HTML documents.
 
-CSS Grid: A two-dimensional layout system in CSS that provides more control over how web content is arranged.
+    <strong>CSS Grid:</strong> A two-dimensional layout system in CSS that provides more control over how web content is arranged.
 
-Cross-Browser Compatibility: Ensuring a website works correctly on different browsers and devices.
+    <strong>Cross-Browser Compatibility:</strong> Ensuring a website works correctly on different browsers and devices.
 
-CSS Reset/Normalize: A set of rules that remove browser inconsistencies in default styling.
+    <strong>CSS Reset/Normalize:</strong> A set of rules that remove browser inconsistencies in default styling.
 
-DNS (Domain Name System): Translates domain names into IP addresses.
+    <strong>DNS (Domain Name System):</strong> Translates domain names into IP addresses.
 
-DOM (Document Object Model): The programming interface for web documents, allowing dynamic changes to HTML and CSS.
+    <strong>DOM (Document Object Model):</strong> The programming interface for web documents, allowing dynamic changes to HTML and CSS.
 
-Domain Name: The address used to access a website.
+    <strong>Domain Name:</strong> The address used to access a website.
 
-Element: The basic building blocks of HTML, made up of tags and content.
+    <strong>Element:</strong> The basic building blocks of HTML, made up of tags and content.
 
-Em (Unit): A relative CSS unit used to define size, based on the font size of the element.
+    <strong>Em (Unit):</strong> A relative CSS unit used to define size, based on the font size of the element.
 
-Event: An action that occurs in the browser, such as a click or key press.
+    <strong>Event:</strong> An action that occurs in the browser, such as a click or key press.
 
-Event Listener: A JavaScript method used to handle events like clicks and keypresses.
+    <strong>Event Listener:</strong> A JavaScript method used to handle events like clicks and keypresses.
 
-Flexbox: A layout model that allows elements to be aligned and distributed within a container.
+    <strong>Flexbox:</strong> A layout model that allows elements to be aligned and distributed within a container.
 
-FTP (File Transfer Protocol): A method of transferring files between computers over a network.
+    <strong>FTP (File Transfer Protocol):</strong> A method of transferring files between computers over a network.
 
-Full Stack Development: Involves both front-end (client-side) and back-end (server-side) development.
+    <strong>Full Stack Development:</strong> Involves both front-end (client-side) and back-end (server-side) development.
 
-Function: A block of code designed to perform a task in programming.
+    <strong>Function:</strong> A block of code designed to perform a task in programming.
 
-Git: A version control system that helps developers track changes to code.
+    <strong>Git:</strong> A version control system that helps developers track changes to code.
 
-HTML (Hypertext Markup Language): The standard language used to create web pages.
+    <strong>HTML (Hypertext Markup Language):</strong> The standard language used to create web pages.
 
-HTTP/HTTPS: Hypertext Transfer Protocol, the foundation of any data exchange on the Web. HTTPS adds security via encryption.
+    <strong>HTTP/HTTPS:</strong> Hypertext Transfer Protocol, the foundation of any data exchange on the Web. HTTPS adds security via encryption.
 
-ID: A unique identifier for an element in HTML and CSS.
+    <strong>ID:</strong> A unique identifier for an element in HTML and CSS.
 
-Inline Element: An element that does not start on a new line and only takes up as much width as necessary.
+    <strong>Inline Element:</strong> An element that does not start on a new line and only takes up as much width as necessary.
 
-IP Address: A unique numerical address identifying a device on a network.
+    <strong>IP Address:</strong> A unique numerical address identifying a device on a network.
 
-JavaScript: A programming language used to create dynamic and interactive effects within web browsers.
+    <strong>JavaScript:</strong> A programming language used to create dynamic and interactive effects within web browsers.
 
-Media Query: A CSS feature used to apply styles based on device characteristics, like screen width.
+    <strong>Media Query:</strong> A CSS feature used to apply styles based on device characteristics, like screen width.
 
-Metadata: Information about a webpage, such as the title and description, typically stored in the head section of an HTML document.
+    <strong>Metadata:</strong> Information about a webpage, such as the title and description, typically stored in the head section of an HTML document.
 
-Mobile-First Design: Designing web content first for mobile devices, then enhancing for larger screens.
+    <strong>Mobile-First Design:</strong> Designing web content first for mobile devices, then enhancing for larger screens.
 
-Padding: Space between the content and the border of an element in the CSS box model.
+    <strong>Padding:</strong> Space between the content and the border of an element in the CSS box model.
 
-Property: Defines the aspect of an element to be styled in CSS.
+    <strong>Property:</strong> Defines the aspect of an element to be styled in CSS.
 
-Pseudo-Class: A keyword added to a selector in CSS that specifies a special state of the selected element.
+    <strong>Pseudo-Class:</strong> A keyword added to a selector in CSS that specifies a special state of the selected element.
 
-Pseudo-Element: A keyword added to a selector in CSS that allows you to style parts of an element.
+    <strong>Pseudo-Element:</strong> A keyword added to a selector in CSS that allows you to style parts of an element.
 
-Responsive Design: A design approach where web content adjusts to various screen sizes.
+    <strong>Responsive Design:</strong> A design approach where web content adjusts to various screen sizes.
 
-Script: A block of code that can be used to add functionality to a webpage, often written in JavaScript.
+    <strong>Script:</strong> A block of code that can be used to add functionality to a webpage, often written in JavaScript.
 
-Selector: A CSS statement used to target HTML elements for styling.
+    <strong>Selector:</strong> A CSS statement used to target HTML elements for styling.
 
-Semantic HTML: HTML that conveys meaning about its content beyond just its presentation.
+    <strong>Semantic HTML:</strong> HTML that conveys meaning about its content beyond just its presentation.
 
-Server-Side: Refers to actions or scripts that run on a web server.
+    <strong>Server-Side:</strong> Refers to actions or scripts that run on a web server.
 
-SSL (Secure Sockets Layer): A protocol for encrypting information sent between a browser and a web server.
+    <strong>SSL (Secure Sockets Layer):</strong> A protocol for encrypting information sent between a browser and a web server.
 
-Tag: Defines the start and end of an HTML element.
+    <strong>Tag:</strong> Defines the start and end of an HTML element.
 
-URL (Uniform Resource Locator): The address used to access a resource on the internet.
+    <strong>URL (Uniform Resource Locator):</strong> The address used to access a resource on the internet.
 
-User Agent: Information about the browser, operating system, and device, often sent to web servers.
+    <strong>User Agent:</strong> Information about the browser, operating system, and device, often sent to web servers.
 
-Variable: A container for storing data values in programming.
+    <strong>Variable:</strong> A container for storing data values in programming.
 
-Version Control: A system that records changes to a file or set of files over time.
+    <strong>Version Control:</strong> A system that records changes to a file or set of files over time.
 
-Viewport: The visible area of a web page on a device.
+    <strong>Viewport:</strong> The visible area of a web page on a device.
 
-Web Hosting: A service that allows organizations and individuals to post a website on the internet.
+    <strong>Web Hosting:</strong> A service that allows organizations and individuals to post a website on the internet.
 
-Web Server: A computer that hosts websites and serves them to users' browsers.
+    <strong>Web Server:</strong> A computer that hosts websites and serves them to users' browsers.
 
-White-Space: In CSS, controls the display of spaces, line breaks, and tabs.
+    <strong>White-Space:</strong> In CSS, controls the display of spaces, line breaks, and tabs.
 
-XML (eXtensible Markup Language): A language designed to store and transport data.
-
+    <strong>XML (eXtensible Markup Language):</strong> A language designed to store and transport data.
+</ul>
